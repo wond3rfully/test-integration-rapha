@@ -1,0 +1,45 @@
+body {
+    font-family: 'Telex', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.header {
+
+    .header-center {
+        a {
+
+            font-family: 'Telex', sans-serif;
+            font-size: 18;
+            font-weight: 400;
+            color: #000000;
+        }
+    }
+
+    .header-right {
+        a {
+            font-family: 'Yantramanav', sans-serif;
+            font-size: 18px;
+            font-weight: 900;
+            text-decoration: none;
+            color: black;
+        }
+    }
+}
+
+.title{
+    font-family: 'Yantramanav', sans-serif;
+font-size: 90px;
+font-weight: 700;
+line-height: 116.72px;
+text-align: left;
+
+}
+
+.desc{
+    font-family: Telex;
+font-size: 28px;
+font-weight: 400;
+line-height: 34px;
+text-align: left;
+
+}
