@@ -72,3 +72,16 @@
         margin-right: -46px;
     }
 }
+
+.foot{
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+    align-items: center;
+
+    &__line{
+        background-color: #B7B2B3;
+        width: 1497px;
+        height: 5px;
+    }
+}
